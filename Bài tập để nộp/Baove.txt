@@ -1,0 +1,14 @@
+{
+  "Id": "BV",
+  "Name": "B\u1EA3o v\u1EC7",
+  "Manager": {
+    "Id": "3",
+    "Name": "QHUYIA",
+    "Birth": "2000-02-01T19:16:27",
+    "Gmail": "2313213",
+    "Phone": "23132",
+    "Iddepartment": "BV",
+    "Gender": "Male"
+  },
+  "Listemployees": []
+}

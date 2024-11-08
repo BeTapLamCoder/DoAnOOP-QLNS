@@ -1,0 +1,14 @@
+{
+  "Id": "GS",
+  "Name": "Gi\u00E1m s\u00E1t",
+  "Manager": {
+    "Id": "2",
+    "Name": "HUY",
+    "Birth": "2000-02-22T23:42:39",
+    "Gmail": "123213",
+    "Phone": "231231",
+    "Iddepartment": "GS",
+    "Gender": "Male"
+  },
+  "Listemployees": []
+}

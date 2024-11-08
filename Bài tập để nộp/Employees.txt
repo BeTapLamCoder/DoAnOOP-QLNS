@@ -1,0 +1,26 @@
+[
+  {
+    "Position": "Manager",
+    "Description": null,
+    "Start": "2024-11-08T19:15:50.7065981+07:00",
+    "Id": "2",
+    "Name": "HUY",
+    "Birth": "2000-02-22T23:42:39",
+    "Gmail": "123213",
+    "Phone": "231231",
+    "Iddepartment": "GS",
+    "Gender": "Male"
+  },
+  {
+    "Position": "Manager",
+    "Description": null,
+    "Start": "2024-11-08T19:16:27.2600159+07:00",
+    "Id": "3",
+    "Name": "QHUYIA",
+    "Birth": "2000-02-01T19:16:27",
+    "Gmail": "2313213",
+    "Phone": "23132",
+    "Iddepartment": "BV",
+    "Gender": "Male"
+  }
+]
